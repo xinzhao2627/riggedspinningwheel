@@ -1,0 +1,10 @@
+{
+  "Name": "Rigged Spinning Wheel",
+  "Author": "Rainnsoft",
+  "Version": "1.0.0",
+  "Description": "increase the probability of spinning wheel to land on green during the starde valley fair",
+  "UniqueID": "Rainnsoft.RiggedSpinningWheel",
+  "EntryDll": "riggedspinningwheel.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
