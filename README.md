@@ -1,1 +1,1 @@
-# riggedspinningwheel
+# Automate spinning wheel

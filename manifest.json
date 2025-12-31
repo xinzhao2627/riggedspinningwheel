@@ -1,10 +1,10 @@
 {
-  "Name": "Rigged Spinning Wheel",
+  "Name": "Automate Spinning Wheel",
   "Author": "Rainnsoft",
   "Version": "1.0.0",
-  "Description": "increase the probability of spinning wheel to land on green during the starde valley fair",
-  "UniqueID": "Rainnsoft.RiggedSpinningWheel",
-  "EntryDll": "riggedspinningwheel.dll",
+  "Description": "automate the spinning wheel during the starde valley fair as long as you have some star tokens",
+  "UniqueID": "Rainnsoft.AutomateSpinningWheel",
+  "EntryDll": "automatespinningwheel.dll",
   "MinimumApiVersion": "4.0.0",
   "UpdateKeys": []
 }
